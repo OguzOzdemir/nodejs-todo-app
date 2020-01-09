@@ -1,2 +1,2 @@
 # nodejs-todo-app
-nodejs todoApp with mongo
+nodejs todoApp with mongodb
